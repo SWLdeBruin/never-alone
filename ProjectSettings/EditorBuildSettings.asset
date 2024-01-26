@@ -6,6 +6,27 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Start.unity
+    guid: c5f169d90be026f498511702afdff92e
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 5a6570574a3b51747bf90f0d8b383535
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 92ea84cc3116fc74f805adaec68343ef
+  - enabled: 1
+    path: Assets/Scenes/Gameover_Detected.unity
+    guid: b91afd9cb03edf54eb213ef23be3f814
+  - enabled: 1
+    path: Assets/Scenes/Gameover_Doctor.unity
+    guid: f6af31591afcde048878f80c6b846a7e
+  - enabled: 1
+    path: Assets/Scenes/Gameover_OverHours.unity
+    guid: ff25255e7f340e34fb4d1d6324662b78
+  - enabled: 1
+    path: Assets/Scenes/Gameover_Success.unity
+    guid: 7d40b9e7861885e4bb748c0e6b221dec
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e82ef61db270b7a4e8c529be97b20f66
   m_configObjects: {}

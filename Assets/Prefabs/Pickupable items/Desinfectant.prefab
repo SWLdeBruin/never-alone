@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8936481111499024276
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.69340885
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.2581253
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2626327242012899229, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3650837500597019420, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_Name
+      value: Desinfectant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6036625430695580642, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: _collectable
+      value: 
+      objectReference: {fileID: 11400000, guid: d7c281bc26f834f4eb7a6b3b2e3883d2, type: 2}
+    - target: {fileID: 6187128720603581230, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 96808e94852b35f4bad307ede9a20b23, type: 3}
+    - target: {fileID: 6187128720603581230, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
+      propertyPath: m_SortingOrder
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f9b3cae96fa05914aa6ab33aaae8dd2e, type: 3}
